@@ -1,0 +1,5 @@
+,name,apellidos,age
+0,'joshua', 'murillo',100.0
+1,'roberto', 'demencia',42.0
+2,'camila', 'dalto',24.0
+3,'maquina', ,nan
